@@ -21,7 +21,3 @@ You can visit the website at `https://gretabrat.com` to explore Greta Brat's art
 ## Credits
 
 This project was created by Paskanas. It was inspired by the artwork of Greta Brat.
-
-## License
-
-This project is licensed under the `MIT` license. See the `LICENSE` file for more details.
